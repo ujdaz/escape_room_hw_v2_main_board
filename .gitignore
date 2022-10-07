@@ -1,2 +1,5 @@
 Project_files/main_board/*.PrjPcbStructure
+Project_files/main_board/History*
+Project_files/main_board/Project Logs*
+Project_files/main_board/*Previews*
 Libraries/*.cmp
