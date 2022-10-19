@@ -92,6 +92,40 @@ GenerateClassCluster=0
 DocumentUniqueId=CXMKVKAH
 
 [Document4]
+DocumentPath=RS_transceiver.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HVYEBFKO
+
+[Document5]
+DocumentPath=ESP.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CQYHYSCC
+
+[Document6]
 DocumentPath=main_board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IIVGXRMN
 
-[Document5]
+[Document7]
 DocumentPath=..\..\Libraries\przem_lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LCMNBHJP
 
-[Document6]
+[Document8]
 DocumentPath=..\..\Libraries\przem_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IBWUQBRD
 
-[Document7]
+[Document9]
 DocumentPath=main_board.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
