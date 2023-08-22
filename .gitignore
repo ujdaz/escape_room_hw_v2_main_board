@@ -6,3 +6,4 @@ Project_files/main_board/*.Annotation*
 Libraries/*.cmp
 3D*
 .txt*
+BOM_main_board.xlsx
